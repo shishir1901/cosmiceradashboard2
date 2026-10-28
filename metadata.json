@@ -1,0 +1,8 @@
+{
+  "name": "ORBITRA GS-01 Aerospace Mission Control",
+  "description": "High-fidelity aerospace ground station telemetry console for the COSMIC ERA CubeSat mission (ESP32 DevKit + DHT11), featuring AI-powered satellite intelligence, real-time anomaly detection, predictive forecasting, dynamic health scoring, and avionics telemetry inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
